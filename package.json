@@ -1,0 +1,12 @@
+{
+  "name": "digest-lambda",
+  "version": "0.1.0",
+  "description": "Generate a checksum from an S3 object",
+  "main": "index.js",
+  "author": "mbklein",
+  "license": "Apache2",
+  "dependencies": {
+    "aws-sdk": "^2.808.0",
+    "digest-stream": "^2.0.0"
+  }
+}
